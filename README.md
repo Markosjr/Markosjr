@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando Bugs desde 2023 e corrigindo a maioria deles 😅)<br><br>📚 Atualmente estou aprendendo Desenvolvimento Full Stack, com foco em Java, SpringBoot, com boas práticas de segurança e escalabilidade.<br><br>🎯 Objetivos: Tornar-me um Desenvolvedor Full Stack altamente qualificado, contribuir para projetos relevantes e evoluir constantemente minhas habilidades em engenharia de software e resolução de problemas.</p>
+<p align="left">✨ Criando Bugs desde 2023 (e corrigindo a maioria deles 😅)<br><br>📚 Atualmente estou aprendendo Desenvolvimento Full Stack, com foco em Java, SpringBoot, com boas práticas de segurança e escalabilidade.<br><br>🎯 Objetivos: Tornar-me um Desenvolvedor Full Stack altamente qualificado, contribuir para projetos relevantes e evoluir constantemente minhas habilidades em engenharia de software e resolução de problemas.</p>
 
 ###
 
