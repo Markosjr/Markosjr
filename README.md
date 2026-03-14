@@ -61,13 +61,6 @@ Valorizo:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=markosjr&theme=dracula&row=1&column=6"/>
-
-</div>
 
 ---
 
@@ -83,7 +76,6 @@ Valorizo:
 
 ---
 
-# 👾 Pacman Contributions
 
 <div align="center">
 
