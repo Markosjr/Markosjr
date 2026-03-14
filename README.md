@@ -61,9 +61,6 @@ Valorizo:
 
 ---
 
-
----
-
 # 🌐 Conecte-se comigo | Connect with me
 
 <div align="center">
